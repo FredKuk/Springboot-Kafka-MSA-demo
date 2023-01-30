@@ -1,0 +1,4 @@
+include ':base-domains'
+include ':email-service'
+include ':order-service'
+include ':stock-service'
